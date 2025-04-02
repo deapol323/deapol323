@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @deapol323
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# ¡Hola! 👋  
+Soy deapol323 y estoy aprendiendo sobre reconocimiento de voz con Picovoice.  
 
-<!---
-deapol323/deapol323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎙️ Me interesa el reconocimiento de voz y la inteligencia artificial.  
+- 🚀 Actualmente aprendiendo sobre Machine Learning.  
+- 💡 Buscando colaborar en proyectos de IA.  
+- 📫 Puedes contactarme aquí en GitHub.  
+- 😄 Pronombres: Él/Él.  
+- ⚡ Dato curioso: Me encanta la tecnología y los asistentes de voz.  
+
 You can click the Preview link to take a look at your changes.
 --->
